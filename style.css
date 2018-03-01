@@ -1,3 +1,17 @@
+h1, h2, h3, h4 {color: white;
+            text-align: center;
+            border: 3px solid blue;
+            border-radius: 45px;
+            background-color: gray;
+            padding: 20px;
+            margin: 30px;
+            text-decoration: underline;
+            font-size: 2em;
+            text-shadow: 2px 2px black
+            font-weight: ;
+            
+}
+
 p {
  color: black;
 }
