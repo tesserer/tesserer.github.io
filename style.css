@@ -25,3 +25,6 @@ body {/* In between slash-asterisk is a comment
     background-size: 100% 100%;
   
 }
+html {
+    height: 100%
+}
